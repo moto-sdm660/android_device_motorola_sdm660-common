@@ -10,7 +10,7 @@ Devices:
 
 * Motorola moto x4 (payton): supported
 * Motorola moto g7 plus (lake): work in progress
-* Motorola moto g6 plus (evert): testing
+* Motorola moto g6 plus (evert): paused (needs a device to debug the display)
 * Motorola moto z3 play (beckham): planned
 * Motorola one power (chef): planned
 
